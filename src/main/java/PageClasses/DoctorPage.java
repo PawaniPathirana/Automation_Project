@@ -17,6 +17,7 @@ public class DoctorPage {
 	    private By selectBranchDropdown = By.xpath("//*[@id=\"DrpBranch\"]");
 	    private By searchInput = By.xpath("//*[@id=\":r8:\"]");
 	    private By searchButton = By.id("DoctorBranchSearchButton");
+	    
 
 	    // Constructor
 	    public DoctorPage(WebDriver driver) {
