@@ -8,6 +8,7 @@
           <include name="searchDoctorTest"/>
           <include name="setup"/>
           <include name="navDocPageButtonTest"/>
+          <include name="teardown"/>
           <include name="navButtonTest"/>
           <include name="selectBranchTest"/>
         </methods>
